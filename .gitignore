@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Extra
+.idea/*
+.idea
+/InsertionSort/cmake-build-debug
+/InsertionSort/cmake-build-debug/*
