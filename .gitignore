@@ -54,5 +54,5 @@ dkms.conf
 # Extra
 .idea/*
 .idea
-/InsertionSort/cmake-build-debug
-/InsertionSort/cmake-build-debug/*
+/*/cmake-build-debug
+/*/cmake-build-debug/*
